@@ -18,6 +18,8 @@ Run the game with:
 python GalaxianShooter.py
 ```
 
+- You can also play this game on my website! https://laredding2.github.io/galaxian-shooter.html
+  
 Control your spaceship to shoot down alien invaders before they reach you!
 
 ## Features
